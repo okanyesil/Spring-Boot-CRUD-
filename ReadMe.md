@@ -8,7 +8,8 @@
 # TECH STACK
 <HR>
 
-
+- Docker
+- Docker-compose
 - Spring Boot 2
 - JPA
 - JAVA 11
